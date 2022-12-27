@@ -1,0 +1,15 @@
+C:\Users\BRABUS\Desktop\Учеба Лена ГБ\CSharp\Domzad7\bin\Debug\net7.0\Domzad7.exe
+C:\Users\BRABUS\Desktop\Учеба Лена ГБ\CSharp\Domzad7\bin\Debug\net7.0\Domzad7.deps.json
+C:\Users\BRABUS\Desktop\Учеба Лена ГБ\CSharp\Domzad7\bin\Debug\net7.0\Domzad7.runtimeconfig.json
+C:\Users\BRABUS\Desktop\Учеба Лена ГБ\CSharp\Domzad7\bin\Debug\net7.0\Domzad7.dll
+C:\Users\BRABUS\Desktop\Учеба Лена ГБ\CSharp\Domzad7\bin\Debug\net7.0\Domzad7.pdb
+C:\Users\BRABUS\Desktop\Учеба Лена ГБ\CSharp\Domzad7\obj\Debug\net7.0\Domzad7.csproj.AssemblyReference.cache
+C:\Users\BRABUS\Desktop\Учеба Лена ГБ\CSharp\Domzad7\obj\Debug\net7.0\Domzad7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRABUS\Desktop\Учеба Лена ГБ\CSharp\Domzad7\obj\Debug\net7.0\Domzad7.AssemblyInfoInputs.cache
+C:\Users\BRABUS\Desktop\Учеба Лена ГБ\CSharp\Domzad7\obj\Debug\net7.0\Domzad7.AssemblyInfo.cs
+C:\Users\BRABUS\Desktop\Учеба Лена ГБ\CSharp\Domzad7\obj\Debug\net7.0\Domzad7.csproj.CoreCompileInputs.cache
+C:\Users\BRABUS\Desktop\Учеба Лена ГБ\CSharp\Domzad7\obj\Debug\net7.0\Domzad7.dll
+C:\Users\BRABUS\Desktop\Учеба Лена ГБ\CSharp\Domzad7\obj\Debug\net7.0\refint\Domzad7.dll
+C:\Users\BRABUS\Desktop\Учеба Лена ГБ\CSharp\Domzad7\obj\Debug\net7.0\Domzad7.pdb
+C:\Users\BRABUS\Desktop\Учеба Лена ГБ\CSharp\Domzad7\obj\Debug\net7.0\Domzad7.genruntimeconfig.cache
+C:\Users\BRABUS\Desktop\Учеба Лена ГБ\CSharp\Domzad7\obj\Debug\net7.0\ref\Domzad7.dll
